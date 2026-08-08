@@ -4,6 +4,7 @@
 
 > **一款深度契合工业级场景的实验室信息管理系统 (LIMS) 前端架构。**  
 > 专为终结混乱的纸质化办公、严格落实 **ISO 9001:2015** 质量体系合规要求、并实现样品测试全生命周期数字化而量身定制。
+> https://hzzyoyo3-oss.github.io/Lab-Sample-Management-System-Chinese-/
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status: Active](https://img.shields.io/badge/Status-Active-success.svg)
